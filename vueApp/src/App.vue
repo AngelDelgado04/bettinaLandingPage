@@ -25,4 +25,7 @@ export default {
   name: 'App'
 }
 </script>
+<<<<<<< HEAD
 git merge master
+=======
+>>>>>>> master
