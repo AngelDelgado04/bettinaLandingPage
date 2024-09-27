@@ -85,7 +85,7 @@
   </div>
   <footer>
     <address>
-      To any concern, please contact me at:
+      For any questions, please contact me at:
       <a href="mailto:angeleduardo200213@gmail.com">angeleduardo200213@gmail.com</a>
     </address>
   </footer>
