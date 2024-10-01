@@ -5,7 +5,7 @@ module.exports = {
     "./src/**/*.{vue,js,ts,jsx,tsx}"
   ],
   themes: [
-
+      
     ],
 
   plugins: [require("@tailwindcss/typography"), require('daisyui')],
