@@ -4,7 +4,7 @@
     <!-- Text area -->
     <div class="lg:w-1/2 flex px-40 pt-20">
         <article class="prose lg:prose-2xl">
-          <h1 class="text-secondary h-auto max-h-40">¿QUIERES SER UN CHEF RECONOCIDO?</h1>
+          <h1 class="text-secondary h-auto max-h-40 font-parisienne">¿Quieres ser un chef reconocido?</h1>
           <h3 class="text-primary">¡Forma parte del nuevo grupo!</h3>
           <p class=" text-secondary text-2xl font-semibold mb-4">Lo que incluye el curso:</p>
           <ul class="text-secondary space-y-2 text-lg">

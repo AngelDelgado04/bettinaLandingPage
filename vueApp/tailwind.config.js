@@ -16,6 +16,9 @@ module.exports = {
           "primary": "#452F27",
           "secondary": "#7C411E",
           "accent": "#FFE9D2",
+          "tertiary": "D92D24",
+          "sunset": "FF6F20",
+          "yell": "F3E72B",
           "neutral": "#281b1e",
           "base-100": "#fffbff",
           "info": "#0093ce",
@@ -26,4 +29,14 @@ module.exports = {
       },
     ],
   },
+  theme: {
+    extend: {
+      fontFamily: {
+        'great-vibes': ['Great Vibes', 'cursive'],
+        'marcellus': ['Marcellus', 'serif'],
+        'afacad': ['Afacad', 'sans-serif'],
+        'parisienne': ['Parisienne', 'cursive'],
+      }
+    }
+  }
 };
